@@ -1,0 +1,4 @@
+#Fri Dec 17 02:53:59 CET 2021
+base.0=/home/chris/CodingProjects/bv_neufinsing/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

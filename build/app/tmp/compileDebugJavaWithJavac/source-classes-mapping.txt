@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/chriscfs/bvneufinsing/bv_neufinsing/BuildConfig.java
+ com.chriscfs.bvneufinsing.bv_neufinsing.BuildConfig
